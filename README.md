@@ -1,5 +1,4 @@
 # HSE-Bioinformatics
-Practical and home works in the discipline Bioinformatics 2 and 3 course.
 
 Полезные ссылки:
 1) [NCBI](https://www.ncbi.nlm.nih.gov/) 
