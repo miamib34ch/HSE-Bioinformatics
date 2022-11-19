@@ -1,4 +1,4 @@
-# hse22_hw1
+# GenomeAssembly
 
 Полыгалов Богдан, 2 группа
 
