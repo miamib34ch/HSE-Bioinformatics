@@ -1,7 +1,5 @@
 # hse22_hw5
 
-https://colab.research.google.com/drive/1_zd11sIOpDrK7bYY9ABXgTQuCwcrNBJK?usp=share_link
-
 # Нормализация данных 
 
 Статья про нормализацию: https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-02936-w
