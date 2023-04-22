@@ -1,0 +1,31 @@
+[bigwig file test]
+file = epiblast_coverage.bigWig.bw
+# height of the track in cm (optional value)
+height = 4
+title = Epiblast (coverage)
+min_value = 0
+max_value = 350
+bins=300
+color=red
+
+[bigwig file test]
+file = _8cell_coverage.bigWig.bw
+# height of the track in cm (optional value)
+height = 4
+title = 8Cell (coverage)
+min_value = 0
+max_value = 300
+bins=300
+color=green
+
+[bigwig file test]
+file = icm_coverage.bigWig.bw
+# height of the track in cm (optional value)
+height = 4
+title = ICM (coverage)
+min_value = 0
+max_value = 300
+bins=300
+color=blue
+
+[x-axis]

@@ -1,0 +1,31 @@
+[bigwig file test]
+file = epiblast.bigWig.bw
+# height of the track in cm (optional value)
+height = 4
+title = Epiblast (intensity)
+min_value = 0
+max_value = 150
+bins=1000
+color=red
+
+[bigwig file test]
+file = _8cell.bigWig.bw
+# height of the track in cm (optional value)
+height = 4
+title = 8 Cell (intensity)
+min_value = 0
+max_value = 150
+bins=1000
+color=green
+
+[bigwig file test]
+file = icm.bigWig.bw
+# height of the track in cm (optional value)
+height = 4
+title = ICM (intensity)
+min_value = 0
+max_value = 150
+bins=1000
+color=blue
+
+[x-axis]
