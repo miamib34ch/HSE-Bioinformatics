@@ -1,0 +1,11 @@
+# BLASTP 2.14.0+
+# Query: NP_061119.1 MACROH2A2 [organism=Homo sapiens] [GeneID=55506]
+# Database: /mnt/storage/project_2023/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_061119.1	NP_217483.1	37.255	51	29	1	57	107	107	154	0.099	31.6
+NP_061119.1	NP_215008.2	34.884	43	19	1	213	255	86	119	1.5	27.3
+NP_061119.1	NP_216178.1	41.463	41	24	0	176	216	824	864	1.7	27.7
+NP_061119.1	NP_217974.1	25.000	96	63	2	179	270	28	118	4.6	25.8
+NP_061119.1	NP_217774.1	31.325	83	50	4	47	124	228	308	7.1	25.4
+# BLAST processed 1 queries

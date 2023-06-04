@@ -1,0 +1,7 @@
+# BLASTP 2.14.0+
+# Query: NP_060881.2 lysine-specific demethylase hairless isoform b [Homo sapiens]
+# Database: /mnt/storage/project_2023/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+NP_060881.2	NP_217416.1	25.472	106	55	3	993	1097	417	499	8.3	27.3
+# BLAST processed 1 queries

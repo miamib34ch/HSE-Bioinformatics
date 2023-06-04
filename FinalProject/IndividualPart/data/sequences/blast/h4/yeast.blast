@@ -1,0 +1,13 @@
+# BLASTP 2.14.0+
+# Query: NP_003535.1 H4C2 [organism=Homo sapiens] [GeneID=8366]
+# Database: /mnt/storage/project_2023/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_003535.1	NP_014368.1	92.233	103	8	0	1	103	1	103	1.08e-52	158
+NP_003535.1	NP_009563.1	92.233	103	8	0	1	103	1	103	1.08e-52	158
+NP_003535.1	NP_011734.3	30.508	59	35	2	43	98	511	566	2.6	25.0
+NP_003535.1	NP_011614.1	25.000	68	51	0	26	93	228	295	3.8	24.6
+NP_003535.1	NP_011609.2	30.952	42	29	0	12	53	55	96	4.5	24.3
+NP_003535.1	NP_011987.1	31.915	47	31	1	10	55	607	653	7.8	23.9
+NP_003535.1	NP_012100.1	27.500	40	24	1	52	91	284	318	9.9	23.5
+# BLAST processed 1 queries

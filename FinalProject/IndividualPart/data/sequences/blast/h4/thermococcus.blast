@@ -1,0 +1,15 @@
+# BLASTP 2.14.0+
+# Query: NP_003535.1 H4C2 [organism=Homo sapiens] [GeneID=8366]
+# Database: /mnt/storage/project_2023/proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003535.1	WP_011251239.1	38.710	62	30	2	35	92	9	66	3.31e-05	35.0
+NP_003535.1	WP_011250364.1	37.097	62	31	2	35	92	9	66	6.54e-05	34.3
+NP_003535.1	WP_011249959.1	34.848	66	33	2	34	99	316	371	0.20	26.2
+NP_003535.1	WP_011251149.1	39.286	28	17	0	23	50	205	232	3.1	22.7
+NP_003535.1	WP_011248999.1	30.000	40	28	0	40	79	32	71	3.4	22.7
+NP_003535.1	WP_011249698.1	32.000	25	17	0	79	103	81	105	4.3	22.3
+NP_003535.1	WP_011249638.1	26.829	41	30	0	25	65	102	142	6.0	21.9
+NP_003535.1	WP_011250788.1	29.630	54	28	3	29	74	7	58	7.1	21.6
+NP_003535.1	WP_011249209.1	25.926	81	56	1	24	100	289	369	8.0	21.6
+# BLAST processed 1 queries
