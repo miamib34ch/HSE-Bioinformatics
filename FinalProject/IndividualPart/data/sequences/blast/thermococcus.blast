@@ -1,9 +1,0 @@
-# BLASTP 2.14.0+
-# Query: NP_060881.2 lysine-specific demethylase hairless isoform b [Homo sapiens]
-# Database: /mnt/storage/project_2023/proteomes/thermococcus.faa
-# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
-# 3 hits found
-NP_060881.2	WP_011250033.1	27.907	86	45	2	437	518	9	81	1.4	28.5
-NP_060881.2	WP_011249826.1	57.143	21	9	0	67	87	263	283	2.0	28.1
-NP_060881.2	WP_011250646.1	22.917	48	37	0	572	619	5	52	7.0	23.9
-# BLAST processed 1 queries

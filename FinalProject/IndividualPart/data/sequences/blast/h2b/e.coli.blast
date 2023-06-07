@@ -1,9 +1,0 @@
-# BLASTP 2.14.0+
-# Query: NP_001002916.4 H2BW1 [organism=Homo sapiens] [GeneID=158983]
-# Database: /mnt/storage/project_2023/proteomes/e.coli.faa
-# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
-# 3 hits found
-NP_001002916.4	NP_415215.1	40.000	35	14	1	32	59	40	74	0.15	28.1
-NP_001002916.4	NP_416884.1	33.962	53	30	2	21	68	156	208	5.2	24.3
-NP_001002916.4	NP_417751.1	26.866	67	43	2	4	69	74	135	8.2	23.1
-# BLAST processed 1 queries

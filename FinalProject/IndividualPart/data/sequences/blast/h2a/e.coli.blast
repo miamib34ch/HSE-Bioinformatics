@@ -1,9 +1,0 @@
-# BLASTP 2.14.0+
-# Query: NP_061119.1 MACROH2A2 [organism=Homo sapiens] [GeneID=55506]
-# Database: /mnt/storage/project_2023/proteomes/e.coli.faa
-# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
-# 3 hits found
-NP_061119.1	NP_415563.1	26.036	169	118	4	196	362	4	167	1.32e-14	68.6
-NP_061119.1	YP_026205.1	26.027	73	46	2	262	334	552	616	0.69	28.9
-NP_061119.1	NP_417076.1	36.364	55	29	3	133	181	24	78	4.3	26.2
-# BLAST processed 1 queries
