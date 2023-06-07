@@ -1,0 +1,10 @@
+# BLASTP 2.14.0+
+# Query: NP_001002916.4 H2BW1 [organism=Homo sapiens] [GeneID=158983]
+# Database: /mnt/storage/project_2023/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+NP_001002916.4	NP_215622.1	25.455	55	38	1	46	97	186	240	2.4	25.0
+NP_001002916.4	NP_215021.1	55.000	20	9	0	78	97	542	561	5.5	24.3
+NP_001002916.4	NP_216951.1	42.857	21	12	0	1	21	331	351	6.8	23.9
+NP_001002916.4	NP_217103.1	40.000	25	14	1	51	75	455	478	7.9	23.5
+# BLAST processed 1 queries

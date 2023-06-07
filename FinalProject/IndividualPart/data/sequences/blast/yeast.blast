@@ -1,0 +1,9 @@
+# BLASTP 2.14.0+
+# Query: NP_060881.2 lysine-specific demethylase hairless isoform b [Homo sapiens]
+# Database: /mnt/storage/project_2023/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+NP_060881.2	NP_013939.1	30.909	55	38	0	927	981	47	101	0.27	33.1
+NP_060881.2	NP_013380.1	31.481	54	37	0	624	677	804	857	4.9	29.3
+NP_060881.2	NP_013207.1	22.798	193	115	6	418	585	4293	4476	9.6	28.1
+# BLAST processed 1 queries
