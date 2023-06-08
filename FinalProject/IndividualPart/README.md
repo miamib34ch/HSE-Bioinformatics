@@ -25,6 +25,8 @@
 ## Тепловая карта
 ![image](https://github.com/miamib34ch/HSE-BI-ProjectIndividualPart/assets/77894393/5625fe8d-d9d3-43c3-8574-261ae7b14856)
 
+*Чем светлее цвет, тем более значимый результат*
+
 ## Код
 
 **На сервере для выравнивания использовал:** blastp -query *protein*.fasta -db /mnt/storage/project_2023/proteomes/*proteome*.faa -out *proteome*.blast -outfmt 7
