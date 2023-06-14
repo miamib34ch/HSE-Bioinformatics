@@ -17,11 +17,11 @@
 
 ## Общая тепловая карта
 ### Цвета из задания
-![image](https://github.com/miamib34ch/HSE-BI-GroupProject/assets/77894393/e0fa9b52-a70f-4be4-82d0-760e06a5b513)
+![image](https://github.com/miamib34ch/HSE-Bioinformatics/assets/77894393/d0c48a95-cab2-42c5-afd8-d315df116727)
 ### Цвета реверсивные 
-![image](https://github.com/miamib34ch/HSE-BI-GroupProject/assets/77894393/f51f410c-a30d-4552-bd9a-d83b105fab07)
+![image](https://github.com/miamib34ch/HSE-Bioinformatics/assets/77894393/f4fca624-2cd2-4f35-a339-3ac2b7b436b6)
 ### Максимальное число понижено с 300 до 150 для наглядности
-![image](https://github.com/miamib34ch/HSE-BI-GroupProject/assets/77894393/220e98d5-6fde-419f-9399-007f356e08e3)
+![image](https://github.com/miamib34ch/HSE-Bioinformatics/assets/77894393/cb63f728-a14c-4e37-938f-f592baac9e2b)
 
 ## Общий вывод
 
